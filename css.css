@@ -1,0 +1,31 @@
+body {
+    background: url("ohBilly.png");
+}
+/* "/images/midnightexpressbdcap6_original.jpg" */
+.jumbotron {
+    background-color: rgb(104, 0, 0);
+    color: white;
+}
+
+.col-lg-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.card-title {
+    background-color: rgb(69, 69, 248);
+    color: white;
+    border-color: blue;     
+    font-size: 16px;
+    height: 25px;
+    padding-left: 10px;
+    vertical-align: 5px;
+}
+
+.card-primary2 {
+    border: 0px,0px,0px,50px;
+}
+
+#add-employee-btn {
+    background-color: rgb(69, 69, 248);
+    border-color: blue;
+}
